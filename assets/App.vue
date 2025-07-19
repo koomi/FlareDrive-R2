@@ -597,7 +597,7 @@ export default {
         }
         document.title = this.cwd.replace(/.*\/(?!$)|\//g, "") === "/" 
             ? "File"
-            :`${this.cwd.replace(/.*\/(?!$)|\//g, "") || "/" } - ！`;
+            :`${this.cwd.replace(/.*\/(?!$)|\//g, "") || "/" } - File`;
       },
       immediate: true,
     },
