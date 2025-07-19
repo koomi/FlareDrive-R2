@@ -24,7 +24,7 @@
 
     <div class="powered"></div>
 
-    <div style="margin:10px 0;">© 2025 GOD. All rights reserved.</div>
+    <div style="margin:10px 0;">© 2025 File. All rights reserved.</div>
   </footer>
 </template>
 
